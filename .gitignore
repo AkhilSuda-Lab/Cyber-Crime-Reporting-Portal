@@ -1,0 +1,4 @@
+uploads/*
+config/database.php
+create-officer-password.php
+generate-admin-password.php
